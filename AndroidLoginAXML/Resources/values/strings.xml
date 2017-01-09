@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hola Mundo, Click Me!</string>
+    <string name="ApplicationName">AndroidLoginAXML</string>
+
+  <string name="text_logo">EAConexion</string>
+  <string name="text_Login">Iniciar Sesión</string>
+  <string name="text_Forgot_Password">¿Olvidaste tu clave?</string>
+</resources>
